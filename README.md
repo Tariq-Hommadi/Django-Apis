@@ -1,5 +1,9 @@
 # Elham-s-Task`
 
+> You can use postman to implement the following requests
+
+> The Apis in App folder (view)
+
 > 1- admin api, enduser apis all imlemented
 
 > 2- for admin api **(Api/admin)** there is post and get, post to add new task for each user and get to filter the tasks you can send the request as follow:
